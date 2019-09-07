@@ -1,0 +1,83 @@
+body{
+    background-color: lightblue;
+    background-blend-mode: luminosity;
+    margin: 35px;
+}
+.header{
+background-color: aquamarine;
+text-align: center;
+align-content: center;
+}
+
+.container{
+    background-color : grey;
+    align-items: center;
+    justify-content: center;
+       
+}
+.lolo{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: unset;
+}
+.footer{
+    background-color: dimgray;
+    font-size: 20px;
+    padding: 20px ;
+    border-width: 40px;
+    justify-content: center;
+    text-align: center;
+}
+.news{
+    border-radius:20px;
+    border-width: 20cm;
+    border-color: cyan;
+    padding:40px;
+
+    text-align: justify;
+    
+}
+h1{
+    color:red;
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: bolder;
+    padding: 30px;
+    border: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.contacts{
+  background-color: whitesmoke;
+  text-align: center;
+  align-content: center;
+  background-size: 400px;
+  box-sizing: content-box;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 4em;
+}
+.about{
+    background-image: url(E:/DOCUMENTS/School-project/Image/group.jpg);
+    background-repeat: no-repeat;
+  text-align: center;
+  align-content: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: aliceblue;
+  font-size: 4em;
+  padding: 5em;
+}
+.faqs{
+    padding:38px;
+    background-color: azure;
+    font-language-override: unset;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    font-weight: lighter;
+    size: 400px;
+    align-content: flex-start;
+    
+}
+dt{
+    color: rgb(36, 16, 218);
+    font-size:25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
